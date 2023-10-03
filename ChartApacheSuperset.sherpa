@@ -36,7 +36,26 @@
           "Links": []
         }
       ],
-      "Files": [],
+      "Files": [
+        {
+          "RelativePath": "Archive.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Filling CSV.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Login.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        }
+      ],
       "Links": []
     }
   ],
