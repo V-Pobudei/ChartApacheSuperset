@@ -38,19 +38,19 @@
       ],
       "Files": [
         {
-          "RelativePath": "Archive.process",
+          "RelativePath": "Архив.process",
           "Main": false,
           "Showing": true,
           "Pinned": false
         },
         {
-          "RelativePath": "Filling CSV.process",
+          "RelativePath": "Конфигурация CSV.process",
           "Main": false,
           "Showing": true,
           "Pinned": false
         },
         {
-          "RelativePath": "Login.process",
+          "RelativePath": "Логин.process",
           "Main": false,
           "Showing": true,
           "Pinned": false
