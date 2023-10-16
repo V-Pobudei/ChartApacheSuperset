@@ -54,6 +54,12 @@
           "Main": false,
           "Showing": true,
           "Pinned": false
+        },
+        {
+          "RelativePath": "Расписание.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
         }
       ],
       "Links": []
