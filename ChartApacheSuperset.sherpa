@@ -1,5 +1,5 @@
 {
-  "Version": "1.00",
+  "Version": "1.25",
   "IsDarkTheme": false,
   "ProductVersion": "1.29",
   "References": {
@@ -29,7 +29,7 @@
             {
               "RelativePath": "Main.process",
               "Main": true,
-              "Showing": false,
+              "Showing": true,
               "Pinned": false
             }
           ],
@@ -38,6 +38,12 @@
       ],
       "Files": [
         {
+          "RelativePath": "Test.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
           "RelativePath": "Архив.process",
           "Main": false,
           "Showing": true,
@@ -45,6 +51,12 @@
         },
         {
           "RelativePath": "Конфигурация CSV.process",
+          "Main": false,
+          "Showing": true,
+          "Pinned": false
+        },
+        {
+          "RelativePath": "Логаут.process",
           "Main": false,
           "Showing": true,
           "Pinned": false
